@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaedong95
+- 👋 Hi, I’m Jaedong, Oh 
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics 
 - 🌱 I’m currently learning OpenCV, Deep Learning, Data analystics
 - 📫 How to reach me 
