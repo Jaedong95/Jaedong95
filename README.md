@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics 
 - 🌱 I’m currently learning OpenCV, Deep Learning, Data analystics
 - 📫 How to reach me 
-  1. mail  - badzoo@naver.com
+  1. e-mail  - badzoo@naver.com
   2. instagram  - jaedong.oh
 
 <!---
