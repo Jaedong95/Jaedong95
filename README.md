@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaedong, Oh 
-- 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics 
+- 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
 - 🌱 I’m currently learning OpenCV, Deep Learning, Data analystics
 - 📫 How to reach me 
   1. e-mail  - badzoo@naver.com
