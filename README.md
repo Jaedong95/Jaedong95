@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning OpenCV, Deep Learning, Data analystics, OpenCV 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dracula)](https://github.com/Jaedong95/ViewCloset_deeplearning)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_privat=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
