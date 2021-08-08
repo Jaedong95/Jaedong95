@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dracula)](https://github.com/Jaedong95/ViewCloset_deeplearning)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_privat=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_privat=true&theme=dracula)]
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ollie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
