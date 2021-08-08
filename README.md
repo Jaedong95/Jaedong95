@@ -6,6 +6,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_privat=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaedong95)](https://github.com/anuraghazra/github-readme-stats)
+
+
 📫 How to reach me 
   1. e-mail  - badzoo@naver.com
   2. instagram  - jaedong.oh
