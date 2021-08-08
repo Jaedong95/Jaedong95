@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
 - 🌱 I’m currently learning OpenCV, Deep Learning, Data analystics, OpenCV 
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me 
   1. e-mail  - badzoo@naver.com
   2. instagram  - jaedong.oh
