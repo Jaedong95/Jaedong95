@@ -7,7 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/Jaedong95/ViewCloset_deeplearning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/Jaedong95/Data_Preprocessing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=Data_Preprocessing&theme=dark&hide_border=true)](https://github.com/Jaedong95/Data_Preprocessing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_privat=true&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/Jaedong95)
 
