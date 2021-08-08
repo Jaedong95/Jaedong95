@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaedong, Oh 
+- 👋 Hi there, I’m Jaedong, Oh 
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
 - 🌱 I’m currently learning OpenCV, Deep Learning, Data analystics, OpenCV 
 - 📫 How to reach me 
@@ -10,3 +10,4 @@
 Jaedong95/Jaedong95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
