@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_privat=true&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/Jaedong95)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ollie&theme=dracula&v=2)](https://github.com/Jaedong95)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ollie&v=2&theme=dracula)](https://github.com/Jaedong95)
 
 
 📫 How to reach me 
