@@ -15,7 +15,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pomate)](https://solved.ac/pomate)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pomate)](https://solved.ac/pomate)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pomate)](https://solved.ac/pomate)
 
 📫 How to reach me 
   1. e-mail  - badzoo@naver.com
