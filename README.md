@@ -2,7 +2,7 @@
 
 👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
 
-🌱 I’m currently learning OpenCV, Deep Learning, Data analystics, OpenCV 
+🌱 I’m currently learning OpenCV, Deep Learning, Data analystics, OpenCV (by using Python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/Jaedong95/ViewCloset_deeplearning)
 
