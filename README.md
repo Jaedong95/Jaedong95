@@ -13,8 +13,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ollie&v=2&theme=dracula&layout=compact)](https://github.com/Jaedong95)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pomate](https://solved.ac/pomate)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pomate](https://solved.ac/pomate)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={pomate})](https://solved.ac/pomate)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={pomate})](https://solved.ac/pomate)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=pomate)](https://solved.ac/pomate)
 
 📫 How to reach me 
