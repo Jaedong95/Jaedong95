@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/Jaedong95/ViewCloset_deeplearning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=coding&theme=dark&hide_border=true)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=Mini_Projects&theme=dark&hide_border=true)]
 (https://github.com/Jaedong95/Mini_Projects)
 
 
