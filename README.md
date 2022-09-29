@@ -1,8 +1,8 @@
 👋 Hi there, I’m Jaedong, Oh 
 
-👀 I’m interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
+👀 I’m interested in NLP, Chatbot
 
-🌱 I’m currently learning OpenCV, Deep Learning, Data analystics, OpenCV (by using Python)
+🌱 I’m currently learning NLP, GNN, Chatbot, Data analystics (by using Python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=projects&theme=dark&hide_border=true)](https://github.com/Jaedong95/projects)
 
