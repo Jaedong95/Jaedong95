@@ -6,9 +6,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=projects&theme=dark&hide_border=true)](https://github.com/Jaedong95/projects)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=python&theme=dark&hide_border=true)](https://github.com/Jaedong95/python)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_private=true&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/Jaedong95)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ollie&v=2&theme=dracula&layout=compact)](https://github.com/Jaedong95)
