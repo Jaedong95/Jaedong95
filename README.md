@@ -4,11 +4,9 @@
 
 🌱 I’m currently learning NLP, GNN, Chatbot, Data analystics (by using Python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=projects&theme=dark&hide_border=true)](https://github.com/Jaedong95/projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=Chatbot&theme=dark&hide_border=true)](https://github.com/Jaedong95/Chatbot)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_private=true&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/Jaedong95)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ollie&v=2&theme=dracula&layout=compact)](https://github.com/Jaedong95)
 
 📫 How to reach me 
   1. e-mail  - badzoo@naver.com
