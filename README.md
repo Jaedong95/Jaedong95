@@ -2,7 +2,7 @@
 
 👀 I’m interested in NLP, Chatbot
 
-🌱 I’m currently learning NLP, GNN, Chatbot, Data analystics (by using Python)
+🌱 I’m currently learning NLP, Chatbot Data analystics (by using Python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=Chatbot&theme=dark&hide_border=true)](https://github.com/Jaedong95/Chatbot)
 
