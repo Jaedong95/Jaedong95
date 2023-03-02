@@ -1,8 +1,6 @@
 👋 Hi there, I’m Jaedong, Oh 
 
-👀 I’m interested in NLP, Chatbot
-
-🌱 I’m currently learning NLP, Chatbot Data analystics (by using Python)
+👀 I’m interested in NLP, Data Analysis 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=AuD&theme=dark&hide_border=true)](https://github.com/Jaedong95/AuD)
 
