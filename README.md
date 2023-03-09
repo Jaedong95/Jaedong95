@@ -3,6 +3,7 @@
 👀 I’m interested in NLP, Data Analysis 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=AuD&theme=dark&hide_border=true)](https://github.com/Jaedong95/AuD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaedong95&repo=Reddit&theme=dark&hide_border=true)](https://github.com/Jaedong95/Reddit)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaedong95&hide=prs&count_private=true&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/Jaedong95)
 
